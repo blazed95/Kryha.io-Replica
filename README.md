@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 <br>
 This project is my personal try to replicate the Kryha.io webstite (https://kryha.io/)
 
-### The Front-End of this site is Build with React.js and Styled Components.
+### The Front-End of this site was Build with React.js and Styled Components.
 
 ### The animation of its components was developed with Gsap Library.
 
