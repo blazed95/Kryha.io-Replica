@@ -12,9 +12,9 @@ const Navbar = ({ location }) => {
         <StyledNav urlLocation={urlLocation}>
             <ul className="items-container">
                 <li className="item-links"><Link to="/" className="link home">Home</Link></li>
-                <li className="item-links"><Link to="/shop" className="link shop">Shop</Link></li>
+                {/*<li className="item-links"><Link to="/shop" className="link shop">Shop</Link></li>*/}
                 <li className="item-links"><Link to="/art" className="link art">Art</Link></li>
-                <li className="item-links"><Link to="/contact" className="link contact">Contact</Link></li>
+                {/*<li className="item-links"><Link to="/contact" className="link contact">Contact</Link></li>*/}
             </ul>
         </StyledNav>
     )
